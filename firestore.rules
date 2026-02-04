@@ -1,0 +1,20 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Allow read/write to employees collection
+    match /employees/{employeeId} {
+      allow read, write: if true;
+      
+      // Allow read/write to attendance subcollection
+      match /attendance/{yearMonth}/records/{recordId} {
+        allow read, write: if true;
+      }
+    }
+    
+    // Allow read/write to sync metadata
+    match /sync-metadata/{document=**} {
+      allow read, write: if true;
+    }
+  }
+}
