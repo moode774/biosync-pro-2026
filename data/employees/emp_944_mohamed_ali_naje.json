@@ -1,0 +1,21 @@
+{
+  "profile": {
+    "id": "944",
+    "name": "mohamed ali naje",
+    "department": "Not Specified",
+    "position": "Staff"
+  },
+  "attendance": {
+    "2026-02": [
+      {
+        "id": "20260204_103825_check-in",
+        "date": "2026-02-04",
+        "time": "10:38:25",
+        "timestamp": "2026-02-04T10:38:25",
+        "type": "check-in",
+        "statusCode": 15,
+        "deviceId": "uFace800-Main"
+      }
+    ]
+  }
+}

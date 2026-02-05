@@ -156,41 +156,19 @@ const fetchAttendanceFromDevice = async (sessionToken: string, ip: string): Prom
 
 export const deviceService = {
   /**
-   * Sync with device and upload to Firebase
-   * 
-   * ⚠️ CRITICAL SAFETY GUARANTEE:
-   * This function is 100% READ-ONLY. It will:
-   * ✅ Call backend proxy to read employee data
-   * ✅ Call backend proxy to read attendance records
-   * ✅ Filter data (2026+ only)
-   * ✅ Upload filtered data to Firebase
-   * 
-   * ❌ It will NEVER:
-   * ❌ Delete any data from device
-   * ❌ Modify any data on device
-   * ❌ Update any device settings
-   * ❌ Write anything back to device
-   * 
-   * The device remains completely UNTOUCHED and SAFE.
+   * Sync with device via backend (reads from local JSON files)
    */
   syncWithDevice: async (ipAddress: string): Promise<{ employees: Employee[], records: AttendanceRecord[] }> => {
-    console.log(`🚀 [READ-ONLY MODE] Starting safe sync via backend proxy...`);
-    console.log(`⚠️  SAFETY GUARANTEE: Device data will NOT be modified, deleted, or updated`);
+    console.log(`🚀 [JSON MODE] Reading from local files...`);
 
     try {
-      // Call Python backend proxy (runs on localhost:5000)
-      const PROXY_URL = 'http://localhost:5000/api/sync';
-
-      console.log('📡 Connecting to backend proxy...');
-      const response = await fetch(PROXY_URL, {
-        method: 'GET',
-        headers: {
-          'Content-Type': 'application/json'
-        }
-      });
-
+      // Call backend to sync with device and get JSON data
+      const BACKEND_URL = 'http://localhost:5000/api/sync';
+      
+      const response = await fetch(BACKEND_URL);
+      
       if (!response.ok) {
-        throw new Error(`Backend proxy error: ${response.status}`);
+        throw new Error(`Backend error: ${response.status}`);
       }
 
       const data = await response.json();
@@ -204,45 +182,18 @@ export const deviceService = {
         name: emp.name,
         department: emp.department || 'Not Specified',
         position: emp.position || 'Staff',
-        avatarUrl: `https://picsum.photos/seed/${emp.id}/200`
+        avatarUrl: `https://ui-avatars.com/api/?name=${encodeURIComponent(emp.name)}&background=random`
       }));
 
       const records: AttendanceRecord[] = data.records;
 
-      console.log(`✅ Received ${employees.length} employees from backend`);
-      console.log(`✅ Received ${records.length} attendance records from backend`);
+      console.log(`✅ Loaded ${employees.length} employees`);
+      console.log(`✅ Loaded ${records.length} records`);
 
-      // Filter 2026+ (backend already does this, but double-check for safety)
-      const filteredRecords = records.filter(r => {
-        const year = new Date(r.timestamp).getFullYear();
-        return year >= START_YEAR_FILTER;
-      });
-
-      console.log(`📅 Confirmed ${filteredRecords.length} records from ${START_YEAR_FILTER}+`);
-
-      // Sync to Firebase
-      console.log('☁️ Syncing to Firebase...');
-      await firebaseSyncService.syncEmployeesToFirebase(employees);
-      await firebaseSyncService.syncAttendanceToFirebase(filteredRecords);
-
-      console.log('✨ Sync completed successfully!');
-
-      return {
-        employees,
-        records: filteredRecords
-      };
+      return { employees, records };
 
     } catch (error) {
       console.error('❌ Sync failed:', error);
-
-      // Check if backend is running
-      if (error instanceof TypeError && error.message.includes('fetch')) {
-        console.error('\n⚠️  Backend proxy is not running!');
-        console.error('📝 Please start the backend server:');
-        console.error('   cd backend');
-        console.error('   python proxy_server.py\n');
-      }
-
       throw error;
     }
   }

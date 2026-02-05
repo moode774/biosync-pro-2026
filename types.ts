@@ -1,4 +1,4 @@
-export type Language = 'en' | 'ar';
+export type Language = "en" | "ar";
 
 export interface Employee {
   id: string;
@@ -12,7 +12,7 @@ export interface AttendanceRecord {
   id: string;
   employeeId: string;
   timestamp: string; // ISO String
-  type: 'check-in' | 'check-out';
+  type: "check-in" | "check-out";
   deviceId: string;
 }
 
@@ -29,4 +29,21 @@ export interface DashboardStats {
   presentToday: number;
   lateArrivals: number;
   absent: number;
+}
+
+export interface DailyAttendance {
+  date: string;
+  checkIn?: AttendanceRecord;
+  checkOut?: AttendanceRecord;
+  hoursWorked?: number;
+  status: "present" | "late" | "absent";
+}
+
+export interface AttendanceStats {
+  totalDays: number;
+  presentDays: number;
+  lateDays: number;
+  absentDays: number;
+  totalHours: number;
+  averageHours: number;
 }

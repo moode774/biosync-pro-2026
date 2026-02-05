@@ -1,0 +1,21 @@
+{
+  "profile": {
+    "id": "4444",
+    "name": "ADMIN",
+    "department": "Not Specified",
+    "position": "Staff"
+  },
+  "attendance": {
+    "2026-02": [
+      {
+        "id": "20260203_114349_check-in",
+        "date": "2026-02-03",
+        "time": "11:43:49",
+        "timestamp": "2026-02-03T11:43:49",
+        "type": "check-in",
+        "statusCode": 3,
+        "deviceId": "uFace800-Main"
+      }
+    ]
+  }
+}

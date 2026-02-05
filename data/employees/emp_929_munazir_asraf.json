@@ -1,0 +1,1213 @@
+{
+  "profile": {
+    "id": "929",
+    "name": "munazir asraf",
+    "department": "Not Specified",
+    "position": "Staff"
+  },
+  "attendance": {
+    "2025-12": [
+      {
+        "id": "20251201_074250_check-in",
+        "date": "2025-12-01",
+        "time": "07:42:50",
+        "timestamp": "2025-12-01T07:42:50",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251201_162657_check-out",
+        "date": "2025-12-01",
+        "time": "16:26:57",
+        "timestamp": "2025-12-01T16:26:57",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251202_074401_check-in",
+        "date": "2025-12-02",
+        "time": "07:44:01",
+        "timestamp": "2025-12-02T07:44:01",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251202_162533_check-out",
+        "date": "2025-12-02",
+        "time": "16:25:33",
+        "timestamp": "2025-12-02T16:25:33",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251203_074350_check-in",
+        "date": "2025-12-03",
+        "time": "07:43:50",
+        "timestamp": "2025-12-03T07:43:50",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251203_162625_check-out",
+        "date": "2025-12-03",
+        "time": "16:26:25",
+        "timestamp": "2025-12-03T16:26:25",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251204_074042_check-in",
+        "date": "2025-12-04",
+        "time": "07:40:42",
+        "timestamp": "2025-12-04T07:40:42",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251204_162641_check-out",
+        "date": "2025-12-04",
+        "time": "16:26:41",
+        "timestamp": "2025-12-04T16:26:41",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251206_074208_check-in",
+        "date": "2025-12-06",
+        "time": "07:42:08",
+        "timestamp": "2025-12-06T07:42:08",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251206_162651_check-out",
+        "date": "2025-12-06",
+        "time": "16:26:51",
+        "timestamp": "2025-12-06T16:26:51",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251207_074253_check-in",
+        "date": "2025-12-07",
+        "time": "07:42:53",
+        "timestamp": "2025-12-07T07:42:53",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251207_162612_check-out",
+        "date": "2025-12-07",
+        "time": "16:26:12",
+        "timestamp": "2025-12-07T16:26:12",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251208_074409_check-in",
+        "date": "2025-12-08",
+        "time": "07:44:09",
+        "timestamp": "2025-12-08T07:44:09",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251208_162727_check-out",
+        "date": "2025-12-08",
+        "time": "16:27:27",
+        "timestamp": "2025-12-08T16:27:27",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251208_163131_check-out",
+        "date": "2025-12-08",
+        "time": "16:31:31",
+        "timestamp": "2025-12-08T16:31:31",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251208_182402_check-out",
+        "date": "2025-12-08",
+        "time": "18:24:02",
+        "timestamp": "2025-12-08T18:24:02",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251209_074247_check-in",
+        "date": "2025-12-09",
+        "time": "07:42:47",
+        "timestamp": "2025-12-09T07:42:47",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251209_162908_check-out",
+        "date": "2025-12-09",
+        "time": "16:29:08",
+        "timestamp": "2025-12-09T16:29:08",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251209_163116_check-out",
+        "date": "2025-12-09",
+        "time": "16:31:16",
+        "timestamp": "2025-12-09T16:31:16",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251209_182630_check-out",
+        "date": "2025-12-09",
+        "time": "18:26:30",
+        "timestamp": "2025-12-09T18:26:30",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251210_074234_check-in",
+        "date": "2025-12-10",
+        "time": "07:42:34",
+        "timestamp": "2025-12-10T07:42:34",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251210_162928_check-out",
+        "date": "2025-12-10",
+        "time": "16:29:28",
+        "timestamp": "2025-12-10T16:29:28",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251210_163300_check-out",
+        "date": "2025-12-10",
+        "time": "16:33:00",
+        "timestamp": "2025-12-10T16:33:00",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251210_182739_check-out",
+        "date": "2025-12-10",
+        "time": "18:27:39",
+        "timestamp": "2025-12-10T18:27:39",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251211_074305_check-in",
+        "date": "2025-12-11",
+        "time": "07:43:05",
+        "timestamp": "2025-12-11T07:43:05",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251211_162914_check-out",
+        "date": "2025-12-11",
+        "time": "16:29:14",
+        "timestamp": "2025-12-11T16:29:14",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251211_163244_check-out",
+        "date": "2025-12-11",
+        "time": "16:32:44",
+        "timestamp": "2025-12-11T16:32:44",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251211_182629_check-out",
+        "date": "2025-12-11",
+        "time": "18:26:29",
+        "timestamp": "2025-12-11T18:26:29",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251213_074216_check-in",
+        "date": "2025-12-13",
+        "time": "07:42:16",
+        "timestamp": "2025-12-13T07:42:16",
+        "type": "check-in",
+        "statusCode": 15,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251213_162629_check-out",
+        "date": "2025-12-13",
+        "time": "16:26:29",
+        "timestamp": "2025-12-13T16:26:29",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251213_163242_check-out",
+        "date": "2025-12-13",
+        "time": "16:32:42",
+        "timestamp": "2025-12-13T16:32:42",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251213_182815_check-out",
+        "date": "2025-12-13",
+        "time": "18:28:15",
+        "timestamp": "2025-12-13T18:28:15",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251214_074159_check-in",
+        "date": "2025-12-14",
+        "time": "07:41:59",
+        "timestamp": "2025-12-14T07:41:59",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251214_162441_check-out",
+        "date": "2025-12-14",
+        "time": "16:24:41",
+        "timestamp": "2025-12-14T16:24:41",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251214_163118_check-out",
+        "date": "2025-12-14",
+        "time": "16:31:18",
+        "timestamp": "2025-12-14T16:31:18",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251214_182836_check-out",
+        "date": "2025-12-14",
+        "time": "18:28:36",
+        "timestamp": "2025-12-14T18:28:36",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251215_074322_check-in",
+        "date": "2025-12-15",
+        "time": "07:43:22",
+        "timestamp": "2025-12-15T07:43:22",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251215_162520_check-out",
+        "date": "2025-12-15",
+        "time": "16:25:20",
+        "timestamp": "2025-12-15T16:25:20",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251215_162612_check-out",
+        "date": "2025-12-15",
+        "time": "16:26:12",
+        "timestamp": "2025-12-15T16:26:12",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251215_182755_check-out",
+        "date": "2025-12-15",
+        "time": "18:27:55",
+        "timestamp": "2025-12-15T18:27:55",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251216_074515_check-in",
+        "date": "2025-12-16",
+        "time": "07:45:15",
+        "timestamp": "2025-12-16T07:45:15",
+        "type": "check-in",
+        "statusCode": 15,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251216_074517_check-in",
+        "date": "2025-12-16",
+        "time": "07:45:17",
+        "timestamp": "2025-12-16T07:45:17",
+        "type": "check-in",
+        "statusCode": 15,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251216_162640_check-out",
+        "date": "2025-12-16",
+        "time": "16:26:40",
+        "timestamp": "2025-12-16T16:26:40",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251216_163215_check-out",
+        "date": "2025-12-16",
+        "time": "16:32:15",
+        "timestamp": "2025-12-16T16:32:15",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251216_182501_check-out",
+        "date": "2025-12-16",
+        "time": "18:25:01",
+        "timestamp": "2025-12-16T18:25:01",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251217_055929_check-in",
+        "date": "2025-12-17",
+        "time": "05:59:29",
+        "timestamp": "2025-12-17T05:59:29",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251217_175959_check-out",
+        "date": "2025-12-17",
+        "time": "17:59:59",
+        "timestamp": "2025-12-17T17:59:59",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251218_055921_check-in",
+        "date": "2025-12-18",
+        "time": "05:59:21",
+        "timestamp": "2025-12-18T05:59:21",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251218_175723_check-out",
+        "date": "2025-12-18",
+        "time": "17:57:23",
+        "timestamp": "2025-12-18T17:57:23",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251220_055755_check-in",
+        "date": "2025-12-20",
+        "time": "05:57:55",
+        "timestamp": "2025-12-20T05:57:55",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251220_175934_check-out",
+        "date": "2025-12-20",
+        "time": "17:59:34",
+        "timestamp": "2025-12-20T17:59:34",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251221_060051_check-in",
+        "date": "2025-12-21",
+        "time": "06:00:51",
+        "timestamp": "2025-12-21T06:00:51",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251221_175932_check-out",
+        "date": "2025-12-21",
+        "time": "17:59:32",
+        "timestamp": "2025-12-21T17:59:32",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251222_060043_check-in",
+        "date": "2025-12-22",
+        "time": "06:00:43",
+        "timestamp": "2025-12-22T06:00:43",
+        "type": "check-in",
+        "statusCode": 15,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251222_175959_check-out",
+        "date": "2025-12-22",
+        "time": "17:59:59",
+        "timestamp": "2025-12-22T17:59:59",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251223_055911_check-in",
+        "date": "2025-12-23",
+        "time": "05:59:11",
+        "timestamp": "2025-12-23T05:59:11",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251223_175835_check-out",
+        "date": "2025-12-23",
+        "time": "17:58:35",
+        "timestamp": "2025-12-23T17:58:35",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251224_055916_check-in",
+        "date": "2025-12-24",
+        "time": "05:59:16",
+        "timestamp": "2025-12-24T05:59:16",
+        "type": "check-in",
+        "statusCode": 15,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251224_055919_check-in",
+        "date": "2025-12-24",
+        "time": "05:59:19",
+        "timestamp": "2025-12-24T05:59:19",
+        "type": "check-in",
+        "statusCode": 15,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251224_175809_check-out",
+        "date": "2025-12-24",
+        "time": "17:58:09",
+        "timestamp": "2025-12-24T17:58:09",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251225_055930_check-in",
+        "date": "2025-12-25",
+        "time": "05:59:30",
+        "timestamp": "2025-12-25T05:59:30",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251225_175707_check-out",
+        "date": "2025-12-25",
+        "time": "17:57:07",
+        "timestamp": "2025-12-25T17:57:07",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251227_055905_check-in",
+        "date": "2025-12-27",
+        "time": "05:59:05",
+        "timestamp": "2025-12-27T05:59:05",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251227_175531_check-out",
+        "date": "2025-12-27",
+        "time": "17:55:31",
+        "timestamp": "2025-12-27T17:55:31",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251228_055933_check-in",
+        "date": "2025-12-28",
+        "time": "05:59:33",
+        "timestamp": "2025-12-28T05:59:33",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251228_175748_check-out",
+        "date": "2025-12-28",
+        "time": "17:57:48",
+        "timestamp": "2025-12-28T17:57:48",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251229_055940_check-in",
+        "date": "2025-12-29",
+        "time": "05:59:40",
+        "timestamp": "2025-12-29T05:59:40",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251229_175923_check-out",
+        "date": "2025-12-29",
+        "time": "17:59:23",
+        "timestamp": "2025-12-29T17:59:23",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251230_055956_check-in",
+        "date": "2025-12-30",
+        "time": "05:59:56",
+        "timestamp": "2025-12-30T05:59:56",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251230_175825_check-out",
+        "date": "2025-12-30",
+        "time": "17:58:25",
+        "timestamp": "2025-12-30T17:58:25",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251230_175848_check-out",
+        "date": "2025-12-30",
+        "time": "17:58:48",
+        "timestamp": "2025-12-30T17:58:48",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251231_055829_check-in",
+        "date": "2025-12-31",
+        "time": "05:58:29",
+        "timestamp": "2025-12-31T05:58:29",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20251231_143114_check-in",
+        "date": "2025-12-31",
+        "time": "14:31:14",
+        "timestamp": "2025-12-31T14:31:14",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      }
+    ],
+    "2026-01": [
+      {
+        "id": "20260101_055920_check-in",
+        "date": "2026-01-01",
+        "time": "05:59:20",
+        "timestamp": "2026-01-01T05:59:20",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260101_142530_check-in",
+        "date": "2026-01-01",
+        "time": "14:25:30",
+        "timestamp": "2026-01-01T14:25:30",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260103_055738_check-in",
+        "date": "2026-01-03",
+        "time": "05:57:38",
+        "timestamp": "2026-01-03T05:57:38",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260103_175943_check-out",
+        "date": "2026-01-03",
+        "time": "17:59:43",
+        "timestamp": "2026-01-03T17:59:43",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260104_055828_check-in",
+        "date": "2026-01-04",
+        "time": "05:58:28",
+        "timestamp": "2026-01-04T05:58:28",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260104_175728_check-out",
+        "date": "2026-01-04",
+        "time": "17:57:28",
+        "timestamp": "2026-01-04T17:57:28",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260105_055816_check-in",
+        "date": "2026-01-05",
+        "time": "05:58:16",
+        "timestamp": "2026-01-05T05:58:16",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260105_175724_check-out",
+        "date": "2026-01-05",
+        "time": "17:57:24",
+        "timestamp": "2026-01-05T17:57:24",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260106_055848_check-in",
+        "date": "2026-01-06",
+        "time": "05:58:48",
+        "timestamp": "2026-01-06T05:58:48",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260106_175655_check-out",
+        "date": "2026-01-06",
+        "time": "17:56:55",
+        "timestamp": "2026-01-06T17:56:55",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260107_055819_check-in",
+        "date": "2026-01-07",
+        "time": "05:58:19",
+        "timestamp": "2026-01-07T05:58:19",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260107_175605_check-out",
+        "date": "2026-01-07",
+        "time": "17:56:05",
+        "timestamp": "2026-01-07T17:56:05",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260108_055916_check-in",
+        "date": "2026-01-08",
+        "time": "05:59:16",
+        "timestamp": "2026-01-08T05:59:16",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260108_175702_check-out",
+        "date": "2026-01-08",
+        "time": "17:57:02",
+        "timestamp": "2026-01-08T17:57:02",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260110_060117_check-in",
+        "date": "2026-01-10",
+        "time": "06:01:17",
+        "timestamp": "2026-01-10T06:01:17",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260110_175858_check-out",
+        "date": "2026-01-10",
+        "time": "17:58:58",
+        "timestamp": "2026-01-10T17:58:58",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260111_060006_check-in",
+        "date": "2026-01-11",
+        "time": "06:00:06",
+        "timestamp": "2026-01-11T06:00:06",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260111_175706_check-out",
+        "date": "2026-01-11",
+        "time": "17:57:06",
+        "timestamp": "2026-01-11T17:57:06",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260112_060127_check-in",
+        "date": "2026-01-12",
+        "time": "06:01:27",
+        "timestamp": "2026-01-12T06:01:27",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260112_175847_check-out",
+        "date": "2026-01-12",
+        "time": "17:58:47",
+        "timestamp": "2026-01-12T17:58:47",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260113_055839_check-in",
+        "date": "2026-01-13",
+        "time": "05:58:39",
+        "timestamp": "2026-01-13T05:58:39",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260113_175827_check-out",
+        "date": "2026-01-13",
+        "time": "17:58:27",
+        "timestamp": "2026-01-13T17:58:27",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260114_055919_check-in",
+        "date": "2026-01-14",
+        "time": "05:59:19",
+        "timestamp": "2026-01-14T05:59:19",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260114_175634_check-out",
+        "date": "2026-01-14",
+        "time": "17:56:34",
+        "timestamp": "2026-01-14T17:56:34",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260115_060034_check-in",
+        "date": "2026-01-15",
+        "time": "06:00:34",
+        "timestamp": "2026-01-15T06:00:34",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260115_175904_check-out",
+        "date": "2026-01-15",
+        "time": "17:59:04",
+        "timestamp": "2026-01-15T17:59:04",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260117_060006_check-in",
+        "date": "2026-01-17",
+        "time": "06:00:06",
+        "timestamp": "2026-01-17T06:00:06",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260117_175817_check-out",
+        "date": "2026-01-17",
+        "time": "17:58:17",
+        "timestamp": "2026-01-17T17:58:17",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260118_060000_check-in",
+        "date": "2026-01-18",
+        "time": "06:00:00",
+        "timestamp": "2026-01-18T06:00:00",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260118_175855_check-out",
+        "date": "2026-01-18",
+        "time": "17:58:55",
+        "timestamp": "2026-01-18T17:58:55",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260119_060212_check-in",
+        "date": "2026-01-19",
+        "time": "06:02:12",
+        "timestamp": "2026-01-19T06:02:12",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260119_175838_check-out",
+        "date": "2026-01-19",
+        "time": "17:58:38",
+        "timestamp": "2026-01-19T17:58:38",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260120_060002_check-in",
+        "date": "2026-01-20",
+        "time": "06:00:02",
+        "timestamp": "2026-01-20T06:00:02",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260120_175647_check-out",
+        "date": "2026-01-20",
+        "time": "17:56:47",
+        "timestamp": "2026-01-20T17:56:47",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260121_055929_check-in",
+        "date": "2026-01-21",
+        "time": "05:59:29",
+        "timestamp": "2026-01-21T05:59:29",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260121_175752_check-out",
+        "date": "2026-01-21",
+        "time": "17:57:52",
+        "timestamp": "2026-01-21T17:57:52",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260122_060240_check-in",
+        "date": "2026-01-22",
+        "time": "06:02:40",
+        "timestamp": "2026-01-22T06:02:40",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260122_175916_check-out",
+        "date": "2026-01-22",
+        "time": "17:59:16",
+        "timestamp": "2026-01-22T17:59:16",
+        "type": "check-out",
+        "statusCode": 15,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260124_060104_check-in",
+        "date": "2026-01-24",
+        "time": "06:01:04",
+        "timestamp": "2026-01-24T06:01:04",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260124_180038_check-out",
+        "date": "2026-01-24",
+        "time": "18:00:38",
+        "timestamp": "2026-01-24T18:00:38",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260125_055932_check-in",
+        "date": "2026-01-25",
+        "time": "05:59:32",
+        "timestamp": "2026-01-25T05:59:32",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260125_175822_check-out",
+        "date": "2026-01-25",
+        "time": "17:58:22",
+        "timestamp": "2026-01-25T17:58:22",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260126_060030_check-in",
+        "date": "2026-01-26",
+        "time": "06:00:30",
+        "timestamp": "2026-01-26T06:00:30",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260126_175836_check-out",
+        "date": "2026-01-26",
+        "time": "17:58:36",
+        "timestamp": "2026-01-26T17:58:36",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260127_060021_check-in",
+        "date": "2026-01-27",
+        "time": "06:00:21",
+        "timestamp": "2026-01-27T06:00:21",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260127_175951_check-out",
+        "date": "2026-01-27",
+        "time": "17:59:51",
+        "timestamp": "2026-01-27T17:59:51",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260128_055838_check-in",
+        "date": "2026-01-28",
+        "time": "05:58:38",
+        "timestamp": "2026-01-28T05:58:38",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260128_175821_check-out",
+        "date": "2026-01-28",
+        "time": "17:58:21",
+        "timestamp": "2026-01-28T17:58:21",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260129_060036_check-in",
+        "date": "2026-01-29",
+        "time": "06:00:36",
+        "timestamp": "2026-01-29T06:00:36",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260129_180205_check-out",
+        "date": "2026-01-29",
+        "time": "18:02:05",
+        "timestamp": "2026-01-29T18:02:05",
+        "type": "check-out",
+        "statusCode": 15,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260131_060010_check-in",
+        "date": "2026-01-31",
+        "time": "06:00:10",
+        "timestamp": "2026-01-31T06:00:10",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260131_175958_check-out",
+        "date": "2026-01-31",
+        "time": "17:59:58",
+        "timestamp": "2026-01-31T17:59:58",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      }
+    ],
+    "2026-02": [
+      {
+        "id": "20260201_055944_check-in",
+        "date": "2026-02-01",
+        "time": "05:59:44",
+        "timestamp": "2026-02-01T05:59:44",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260201_175854_check-out",
+        "date": "2026-02-01",
+        "time": "17:58:54",
+        "timestamp": "2026-02-01T17:58:54",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260202_055836_check-in",
+        "date": "2026-02-02",
+        "time": "05:58:36",
+        "timestamp": "2026-02-02T05:58:36",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260202_180112_check-out",
+        "date": "2026-02-02",
+        "time": "18:01:12",
+        "timestamp": "2026-02-02T18:01:12",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260203_055927_check-in",
+        "date": "2026-02-03",
+        "time": "05:59:27",
+        "timestamp": "2026-02-03T05:59:27",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260203_175932_check-out",
+        "date": "2026-02-03",
+        "time": "17:59:32",
+        "timestamp": "2026-02-03T17:59:32",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260204_055820_check-in",
+        "date": "2026-02-04",
+        "time": "05:58:20",
+        "timestamp": "2026-02-04T05:58:20",
+        "type": "check-in",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      },
+      {
+        "id": "20260204_180104_check-out",
+        "date": "2026-02-04",
+        "time": "18:01:04",
+        "timestamp": "2026-02-04T18:01:04",
+        "type": "check-out",
+        "statusCode": 1,
+        "deviceId": "uFace800-Main"
+      }
+    ]
+  }
+}

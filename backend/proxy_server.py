@@ -72,11 +72,12 @@ class ProfessionalZKReader:
             formatted_employees = []
             for u in users:
                 formatted_employees.append({
-                    'id': u.user_id,
+                    'id': str(u.user_id),  # Convert to string for consistency
                     'name': u.name if u.name else f"User {u.user_id}",
                     'department': 'Not Specified', # Device doesn't always store department in basic user object
                     'position': 'Staff'
                 })
+
 
             # 2. Fetch Attendance Logs
             print("📊 Fetching attendance logs (Read-Only)...")
@@ -103,19 +104,24 @@ class ProfessionalZKReader:
 
                 # Map ID to Name
                 user_name = user_map.get(log.user_id, f"User {log.user_id}")
+                
+                # Convert punch code to type
+                # punch == 0 or 1 typically means check-in, 2 or 3 means check-out
+                # This varies by device, but we'll use a common mapping
+                record_type = 'check-in' if log.punch in [0, 1] else 'check-out'
 
                 processed_logs.append({
                     'id': record_id,
-                    'employeeId': log.user_id,
+                    'employeeId': str(log.user_id),  # Convert to string for consistency
                     'employeeName': user_name,
                     'timestamp': log.timestamp.isoformat(),
-                    'status': 'present' if log.punch == 0 else 'check-in/out', # Basic mapping
-                    'punch': log.punch,
+                    'type': record_type,  # Frontend expects 'type' field
                     'deviceId': 'uFace800-Main'
                 })
 
             print(f"✨ Intelligent processing complete. {len(processed_logs)} records ready.")
             return formatted_employees, processed_logs
+
 
         except Exception as e:
             print(f"❌ Error during data retrieval: {e}")
