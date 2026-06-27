@@ -1,20 +1,38 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+
+# 🧬 BioSync Pro 2026
+
+### نظام إدارة الحضور والانصراف
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
+
+**🌐 [عرض النظام](https://coom-dce1c.web.app)**
+
 </div>
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+## عن المشروع
 
-View your app in AI Studio: https://ai.studio/apps/drive/174VmP_7IveSs13x24MwkSu9cU-T435-c
+نظام متكامل لإدارة حضور وانصراف الموظفين مع تقارير CSV وتزامن تلقائي مع Firebase.
 
-## Run Locally
+## التقنيات
 
-**Prerequisites:**  Node.js
+| التقنية | الغرض |
+|---------|-------|
+| TypeScript + React | واجهة المستخدم |
+| Python | مزامنة البيانات والتقارير |
+| Firebase Firestore | قاعدة البيانات |
+| Tailwind CSS | التصميم |
 
+## المميزات
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- 📊 تقارير حضور تفصيلية
+- 🔄 مزامنة تلقائية مع Firebase
+- 📁 تصدير بيانات CSV
+- ⚡ واجهة سريعة وسهلة الاستخدام
+
+---
+<div align="center"><sub>صُنع بـ ❤️ من فريق Forest Edge</sub></div>
